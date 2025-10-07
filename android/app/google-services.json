@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "510137075667",
+    "project_id": "molhanot-test",
+    "storage_bucket": "molhanot-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510137075667:android:d540ef6913f01ad5a0d126",
+        "android_client_info": {
+          "package_name": "com.example.cheque"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510137075667-4eq3dc9099gj581thf1d6fjgak7nvji9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6Scvy3NWzOqeA-kBnAWbLAvHcUj2Zkww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510137075667-4eq3dc9099gj581thf1d6fjgak7nvji9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "510137075667-14o6p26rsaj0oa2l6pu7lohbcqqj0pnl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tStore"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510137075667:android:a983d2d133ca0b56a0d126",
+        "android_client_info": {
+          "package_name": "com.example.smart_cheque"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510137075667-4eq3dc9099gj581thf1d6fjgak7nvji9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6Scvy3NWzOqeA-kBnAWbLAvHcUj2Zkww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510137075667-4eq3dc9099gj581thf1d6fjgak7nvji9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "510137075667-14o6p26rsaj0oa2l6pu7lohbcqqj0pnl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.waygo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510137075667:android:fabd7c2383ce70e0a0d126",
+        "android_client_info": {
+          "package_name": "com.example.waygo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510137075667-4eq3dc9099gj581thf1d6fjgak7nvji9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6Scvy3NWzOqeA-kBnAWbLAvHcUj2Zkww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510137075667-4eq3dc9099gj581thf1d6fjgak7nvji9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "510137075667-14o6p26rsaj0oa2l6pu7lohbcqqj0pnl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tStore"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510137075667:android:9c4af17524baf8aca0d126",
+        "android_client_info": {
+          "package_name": "com.molhanot.smartcheque"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510137075667-4eq3dc9099gj581thf1d6fjgak7nvji9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6Scvy3NWzOqeA-kBnAWbLAvHcUj2Zkww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510137075667-4eq3dc9099gj581thf1d6fjgak7nvji9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "510137075667-14o6p26rsaj0oa2l6pu7lohbcqqj0pnl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tStore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
